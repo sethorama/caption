@@ -13,6 +13,7 @@ source 'https://rubygems.org'
   gem 'devise'
   gem "paperclip", "~> 4.2"
   gem 'puma'
+  gem 'bootstrap-sass', '~> 3.3.4'
 
 
 
